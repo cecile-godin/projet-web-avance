@@ -1,0 +1,384 @@
+Le script a débuté sur lun. 13 févr. 2017 13:46:31 CET
+[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m npm run test
+
+> projet_test@0.0.0 test /home/cecile/Documents/Cours/S4/Web-avancé
+> test
+
+[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mweird error[0m 1
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m[35m[0m This failure might be due to the use of legacy binary "node"
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mFor further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnot ok[0m code 0
+[0m[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m npm run test
+[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Failed to parse json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Unexpected token :
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m File: /home/cecile/Documents/Cours/S4/Web-avancé/package.json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Failed to parse package.json data.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m package.json must be actual JSON, not just JavaScript.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m This is not a bug in npm.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Tell the package author to fix their package.json file. JSON.parse
+[0m
+[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mSystem[0m Linux 3.19.0-32-generic
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcommand[0m "/usr/bin/nodejs" "/usr/bin/npm" "run" "test"
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcwd[0m /home/cecile/Documents/Cours/S4/Web-avancé
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnode -v[0m v0.10.25
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnpm -v[0m 1.3.10
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mfile[0m /home/cecile/Documents/Cours/S4/Web-avancé/package.json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcode[0m EJSONPARSE
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Additional logging details can be found in:
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m     /home/cecile/Documents/Cours/S4/Web-avancé/npm-debug.log
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnot ok[0m code 0
+[0m[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m build:scss[K[K[K[K[K[K[K[K[K[Knpm run test[K[K[K[Kbuild:scss:main
+[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Failed to parse json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Unexpected token :
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m File: /home/cecile/Documents/Cours/S4/Web-avancé/package.json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Failed to parse package.json data.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m package.json must be actual JSON, not just JavaScript.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m This is not a bug in npm.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Tell the package author to fix their package.json file. JSON.parse
+[0m
+[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mSystem[0m Linux 3.19.0-32-generic
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcommand[0m "/usr/bin/nodejs" "/usr/bin/npm" "run" "build:scss:main"
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcwd[0m /home/cecile/Documents/Cours/S4/Web-avancé
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnode -v[0m v0.10.25
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnpm -v[0m 1.3.10
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mfile[0m /home/cecile/Documents/Cours/S4/Web-avancé/package.json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcode[0m EJSONPARSE
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Additional logging details can be found in:
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m     /home/cecile/Documents/Cours/S4/Web-avancé/npm-debug.log
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnot ok[0m code 0
+[0m[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m npm run build:scss:main
+[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Failed to parse json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Unexpected token :
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m File: /home/cecile/Documents/Cours/S4/Web-avancé/package.json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Failed to parse package.json data.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m package.json must be actual JSON, not just JavaScript.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m This is not a bug in npm.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Tell the package author to fix their package.json file. JSON.parse
+[0m
+[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mSystem[0m Linux 3.19.0-32-generic
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcommand[0m "/usr/bin/nodejs" "/usr/bin/npm" "run" "build:scss:main"
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcwd[0m /home/cecile/Documents/Cours/S4/Web-avancé
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnode -v[0m v0.10.25
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnpm -v[0m 1.3.10
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mfile[0m /home/cecile/Documents/Cours/S4/Web-avancé/package.json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcode[0m EJSONPARSE
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Additional logging details can be found in:
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m     /home/cecile/Documents/Cours/S4/Web-avancé/npm-debug.log
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnot ok[0m code 0
+[0m[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m npm run build:scss:main
+
+> projet_test@0.0.0 build:scss:main /home/cecile/Documents/Cours/S4/Web-avancé
+> node-sass scss/main.scss -o ./web/css
+
+[31m{
+  "status": 1,
+  "file": "/home/cecile/Documents/Cours/S4/Web-avancé/scss/mixins.scss",
+  "line": 1,
+  "column": 1,
+  "message": "Invalid CSS after \"b\": expected 1 selector or at-rule, was \"border-radius\"",
+  "formatted": "Error: Invalid CSS after \"b\": expected 1 selector or at-rule, was \"border-radius\"\n        on line 1 of scss/mixins.scss\n>> border-radius\n   ^\n"
+}[39m
+[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mweird error[0m 1
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m[35m[0m This failure might be due to the use of legacy binary "node"
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mFor further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnot ok[0m code 0
+[0m[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m npm run build:scss:main
+
+> projet_test@0.0.0 build:scss:main /home/cecile/Documents/Cours/S4/Web-avancé
+> node-sass scss/main.scss -o ./web/css
+
+[31m{
+  "status": 1,
+  "file": "/home/cecile/Documents/Cours/S4/Web-avancé/scss/mixins.scss",
+  "line": 1,
+  "column": 1,
+  "message": "Invalid CSS after \"b\": expected 1 selector or at-rule, was \"border-radius\"",
+  "formatted": "Error: Invalid CSS after \"b\": expected 1 selector or at-rule, was \"border-radius\"\n        on line 1 of scss/mixins.scss\n>> border-radius\n   ^\n"
+}[39m
+[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mweird error[0m 1
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m[35m[0m This failure might be due to the use of legacy binary "node"
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mFor further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnot ok[0m code 0
+[0m[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m npm run build:scss:main
+
+> projet_test@0.0.0 build:scss:main /home/cecile/Documents/Cours/S4/Web-avancé
+> node-sass scss/main.scss -o ./web/css
+
+[31m{
+  "status": 1,
+  "file": "/home/cecile/Documents/Cours/S4/Web-avancé/scss/mixins.scss",
+  "line": 1,
+  "column": 1,
+  "message": "Invalid CSS after \"b\": expected 1 selector or at-rule, was \"border-radius\"",
+  "formatted": "Error: Invalid CSS after \"b\": expected 1 selector or at-rule, was \"border-radius\"\n        on line 1 of scss/mixins.scss\n>> border-radius\n   ^\n"
+}[39m
+[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mweird error[0m 1
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m[35m[0m This failure might be due to the use of legacy binary "node"
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mFor further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnot ok[0m code 0
+[0m[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m npm run build:scss:main
+
+> projet_test@0.0.0 build:scss:main /home/cecile/Documents/Cours/S4/Web-avancé
+> node-sass scss/main.scss -o ./web/css
+
+[31m{
+  "status": 1,
+  "file": "/home/cecile/Documents/Cours/S4/Web-avancé/scss/mixins.scss",
+  "line": 1,
+  "column": 1,
+  "message": "Invalid CSS after \"b\": expected 1 selector or at-rule, was \"border-radius\"",
+  "formatted": "Error: Invalid CSS after \"b\": expected 1 selector or at-rule, was \"border-radius\"\n        on line 1 of scss/mixins.scss\n>> border-radius\n   ^\n"
+}[39m
+[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mweird error[0m 1
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m[35m[0m This failure might be due to the use of legacy binary "node"
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mFor further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnot ok[0m code 0
+[0m[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m npm run build:scss:main
+
+> projet_test@0.0.0 build:scss:main /home/cecile/Documents/Cours/S4/Web-avancé
+> node-sass scss/main.scss -o ./web/css
+
+[31m{
+  "status": 1,
+  "file": "/home/cecile/Documents/Cours/S4/Web-avancé/scss/mixins.scss",
+  "line": 1,
+  "column": 1,
+  "message": "Invalid CSS after \"p\": expected 1 selector or at-rule, was \"padding\"",
+  "formatted": "Error: Invalid CSS after \"p\": expected 1 selector or at-rule, was \"padding\"\n        on line 1 of scss/mixins.scss\n>> padding\n   ^\n"
+}[39m
+[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mweird error[0m 1
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m[35m[0m This failure might be due to the use of legacy binary "node"
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mFor further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnot ok[0m code 0
+[0m[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m npm run build:scss:main
+
+> projet_test@0.0.0 build:scss:main /home/cecile/Documents/Cours/S4/Web-avancé
+> node-sass scss/main.scss -o ./web/css
+
+[32mRendering Complete, saving .css file...[39m
+[32mWrote CSS to /home/cecile/Documents/Cours/S4/Web-avancé/web/css/main.css[39m
+[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m npm run build:scss:maintest[K'/home/cecile/android-studiio/bin/studio.sh' [A[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m [7Pcordova run browser
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cplatform add browseer[A[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m [C[C[C[C[C[C[C[C[7Prun browser
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'/home/cecile/android-studiio/bin/studio.sh' [A[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m [14Pnpm run test
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbuild:scss:main[Knpm run build:scss:maintest[K'/home/cecile/android-studiio/bin/studio.sh' [A[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m [7Pcordova run browser
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'/home/cecile/android-studiio/bin/studio.sh' [A[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m [14Pnpm run test
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbuild:scss:main[Knpm install bootstrap save [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kinstall bootstrap --[K[K[K - [K[K[K - sa ss[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K-sass  -- save[K[K[K[K[Ksave
+[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mpackage.json[0m projet_test@0.0.0 No repository field.
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mpackage.json[0m projet_test@0.0.0 No README data
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/bootstrap-sass
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m200[0m https://registry.npmjs.org/bootstrap-sass
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/bootstrap-sass/-/bootstrap-sass-3.3.7.tgz
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m200[0m https://registry.npmjs.org/bootstrap-sass/-/bootstrap-sass-3.3.7.tgz
+[0mbootstrap-sass@3.3.7 node_modules/bootstrap-sass
+[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m build:scss:bootstrap
+build:scss:bootstrap : commande introuvable
+[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m build:scss:bootstrap
+build:scss:bootstrap : commande introuvable
+[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m npm run build:scss:bootstr ap
+[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Failed to parse json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Unexpected string
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m File: /home/cecile/Documents/Cours/S4/Web-avancé/package.json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Failed to parse package.json data.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m package.json must be actual JSON, not just JavaScript.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m This is not a bug in npm.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Tell the package author to fix their package.json file. JSON.parse
+[0m
+[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mSystem[0m Linux 3.19.0-32-generic
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcommand[0m "/usr/bin/nodejs" "/usr/bin/npm" "run" "build:scss:bootstrap"
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcwd[0m /home/cecile/Documents/Cours/S4/Web-avancé
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnode -v[0m v0.10.25
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnpm -v[0m 1.3.10
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mfile[0m /home/cecile/Documents/Cours/S4/Web-avancé/package.json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcode[0m EJSONPARSE
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Additional logging details can be found in:
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m     /home/cecile/Documents/Cours/S4/Web-avancé/npm-debug.log
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnot ok[0m code 0
+[0m[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m npm run build:scss:bootstraap
+[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Failed to parse json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Unexpected string
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m File: /home/cecile/Documents/Cours/S4/Web-avancé/package.json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Failed to parse package.json data.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m package.json must be actual JSON, not just JavaScript.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m This is not a bug in npm.
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Tell the package author to fix their package.json file. JSON.parse
+[0m
+[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mSystem[0m Linux 3.19.0-32-generic
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcommand[0m "/usr/bin/nodejs" "/usr/bin/npm" "run" "build:scss:bootstrap"
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcwd[0m /home/cecile/Documents/Cours/S4/Web-avancé
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnode -v[0m v0.10.25
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnpm -v[0m 1.3.10
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mfile[0m /home/cecile/Documents/Cours/S4/Web-avancé/package.json
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mcode[0m EJSONPARSE
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m 
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m Additional logging details can be found in:
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m[35m[0m     /home/cecile/Documents/Cours/S4/Web-avancé/npm-debug.log
+[0m[37m[40mnpm[0m [0m[31m[40mERR![0m [0m[35mnot ok[0m code 0
+[0m[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m npm run build:scss:bootstraap
+
+> projet_test@0.0.0 build:scss:bootstrap /home/cecile/Documents/Cours/S4/Web-avancé
+> node-sass scss/bootstrap.scss -o ./web/css --output-style compressed
+
+[32mRendering Complete, saving .css file...[39m
+[32mWrote CSS to /home/cecile/Documents/Cours/S4/Web-avancé/web/css/bootstrap.css[39m
+[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m npm run build:scss:bootstraap[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[Kmain
+
+> projet_test@0.0.0 build:scss:main /home/cecile/Documents/Cours/S4/Web-avancé
+> node-sass scss/main.scss -o ./web/css
+
+[32mRendering Complete, saving .css file...[39m
+[32mWrote CSS to /home/cecile/Documents/Cours/S4/Web-avancé/web/css/main.css[39m
+[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m nmp install shx --save-dev [A
+La commande « nmp » est introuvable, vouliez-vous dire :
+ La commande « cmp » du paquet « diffutils » (main)
+ La commande « bmp » du paquet « ztex-bmp » (universe)
+ La commande « mp » du paquet « mp » (universe)
+ La commande « nmap » du paquet « nmap » (main)
+ La commande « nm » du paquet « binutils-multiarch » (main)
+ La commande « nm » du paquet « binutils » (main)
+ La commande « xmp » du paquet « xmp » (universe)
+ La commande « nup » du paquet « dvi2ps » (universe)
+ La commande « npm » du paquet « npm » (universe)
+ La commande « nop » du paquet « graphviz » (main)
+ La commande « nap » du paquet « nap » (universe)
+nmp : commande introuvable
+[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m nmp install [K shix--sav-dev
+La commande « nmp » est introuvable, vouliez-vous dire :
+ La commande « nup » du paquet « dvi2ps » (universe)
+ La commande « nm » du paquet « binutils » (main)
+ La commande « nm » du paquet « binutils-multiarch » (main)
+ La commande « nap » du paquet « nap » (universe)
+ La commande « xmp » du paquet « xmp » (universe)
+ La commande « cmp » du paquet « diffutils » (main)
+ La commande « npm » du paquet « npm » (universe)
+ La commande « bmp » du paquet « ztex-bmp » (universe)
+ La commande « mp » du paquet « mp » (universe)
+ La commande « nmap » du paquet « nmap » (main)
+ La commande « nop » du paquet « graphviz » (main)
+nmp : commande introuvable
+[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m nmp install shix--sav-dev[Cev-dev [A[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pv-dev
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce-dev [A[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+La commande « nmp » est introuvable, vouliez-vous dire :
+ La commande « cmp » du paquet « diffutils » (main)
+ La commande « nm » du paquet « binutils-multiarch » (main)
+ La commande « nm » du paquet « binutils » (main)
+ La commande « nmap » du paquet « nmap » (main)
+ La commande « nup » du paquet « dvi2ps » (universe)
+ La commande « nap » du paquet « nap » (universe)
+ La commande « xmp » du paquet « xmp » (universe)
+ La commande « npm » du paquet « npm » (universe)
+ La commande « mp » du paquet « mp » (universe)
+ La commande « bmp » du paquet « ztex-bmp » (universe)
+ La commande « nop » du paquet « graphviz » (main)
+nmp : commande introuvable
+[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m nmp install shix--save-dev [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C --save-devv[A[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+La commande « nmp » est introuvable, vouliez-vous dire :
+ La commande « nmap » du paquet « nmap » (main)
+ La commande « xmp » du paquet « xmp » (universe)
+ La commande « bmp » du paquet « ztex-bmp » (universe)
+ La commande « npm » du paquet « npm » (universe)
+ La commande « nop » du paquet « graphviz » (main)
+ La commande « nup » du paquet « dvi2ps » (universe)
+ La commande « nm » du paquet « binutils » (main)
+ La commande « nm » du paquet « binutils-multiarch » (main)
+ La commande « mp » du paquet « mp » (universe)
+ La commande « cmp » du paquet « diffutils » (main)
+ La commande « nap » du paquet « nap » (universe)
+nmp : commande introuvable
+[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m nmp install shix --save-devv[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cx --save-dev [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+La commande « nmp » est introuvable, vouliez-vous dire :
+ La commande « nup » du paquet « dvi2ps » (universe)
+ La commande « nm » du paquet « binutils » (main)
+ La commande « nm » du paquet « binutils-multiarch » (main)
+ La commande « nap » du paquet « nap » (universe)
+ La commande « nmap » du paquet « nmap » (main)
+ La commande « xmp » du paquet « xmp » (universe)
+ La commande « bmp » du paquet « ztex-bmp » (universe)
+ La commande « mp » du paquet « mp » (universe)
+ La commande « cmp » du paquet « diffutils » (main)
+ La commande « npm » du paquet « npm » (universe)
+ La commande « nop » du paquet « graphviz » (main)
+nmp : commande introuvable
+[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m nmp install shx --save-dev [A
+La commande « nmp » est introuvable, vouliez-vous dire :
+ La commande « mp » du paquet « mp » (universe)
+ La commande « bmp » du paquet « ztex-bmp » (universe)
+ La commande « nap » du paquet « nap » (universe)
+ La commande « xmp » du paquet « xmp » (universe)
+ La commande « nmap » du paquet « nmap » (main)
+ La commande « cmp » du paquet « diffutils » (main)
+ La commande « npm » du paquet « npm » (universe)
+ La commande « nup » du paquet « dvi2ps » (universe)
+ La commande « nop » du paquet « graphviz » (main)
+ La commande « nm » du paquet « binutils » (main)
+ La commande « nm » du paquet « binutils-multiarch » (main)
+nmp : commande introuvable
+[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m nmp install shx --save-dev [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[1P[1@n[1@pm install shx --save-dev [A[01;32mcecile@cecile-Linux[01;34m ~/Documents/Cours/S4/Web-avancé $[00m [C[C[C
+
+[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mpackage.json[0m projet_test@0.0.0 No repository field.
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mpackage.json[0m projet_test@0.0.0 No README data
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/shx
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m200[0m https://registry.npmjs.org/shx
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/shx/-/shx-0.2.2.tgz
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m200[0m https://registry.npmjs.org/shx/-/shx-0.2.2.tgz
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/es6-object-assign
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/minimist
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/shelljs
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m200[0m https://registry.npmjs.org/es6-object-assign
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m304[0m https://registry.npmjs.org/minimist
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m304[0m https://registry.npmjs.org/shelljs
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/es6-object-assign/-/es6-object-assign-1.0.3.tgz
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m200[0m https://registry.npmjs.org/es6-object-assign/-/es6-object-assign-1.0.3.tgz
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mengine[0m shelljs@0.7.6: wanted: {"node":">=0.11.0","iojs":"*"} (current: {"node":"v0.10.25","npm":"1.3.10"})
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/glob
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/interpret
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/rechoir
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m304[0m https://registry.npmjs.org/glob
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m304[0m https://registry.npmjs.org/interpret
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m304[0m https://registry.npmjs.org/rechoir
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/fs.realpath
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/inflight
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/inherits
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/minimatch
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/once
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/path-is-absolute
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/resolve
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m304[0m https://registry.npmjs.org/fs.realpath
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m304[0m https://registry.npmjs.org/inflight
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m304[0m https://registry.npmjs.org/minimatch
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m304[0m https://registry.npmjs.org/path-is-absolute
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m304[0m https://registry.npmjs.org/inherits
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m304[0m https://registry.npmjs.org/once
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m304[0m https://registry.npmjs.org/resolve
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/wrappy
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35mGET[0m https://registry.npmjs.org/brace-expansion
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m304[0m https://registry.npmjs.org/wrappy
+[0m[37m[40mnpm[0m [0m[32m[40mhttp[0m [0m[35m304

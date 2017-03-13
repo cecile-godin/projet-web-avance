@@ -1,0 +1,7 @@
+@import 'variables';
+@import 'mixins';
+
+body {
+	display: block;
+	@include padding(18px);
+}

@@ -1,0 +1,14 @@
+{
+    "name": "cecile/php",
+    "description": "The cake is a lie",
+    "authors": [
+        {
+            "name": "Cécile Godin",
+            "email": "c.godin.1997@laposte.net"
+        }
+    ],
+    "require": {
+        "zendframework/zend-feed": "^2.7",
+        "zendframework/zend-http": "^2.6"
+    }
+}
