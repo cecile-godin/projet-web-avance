@@ -1,7 +1,7 @@
 <ol>
 <li>1) Une fois que vous avez téléchargé le projet, rendez-vous dans votre dossier de projet via le terminal.
 <div class="highlight hightlight-source-shell">	
-<pre>	cd <chemin du dossier> </pre>
+<pre>	cd "chemin du dossier" </pre>
 </div>
 </li>
 <li>2) Lancez un serveur php
@@ -37,7 +37,7 @@
 </li>
 <li>6) Installez webpack
 <div class="highlight hightlight-source-shell">	
-	npm install --save babel-loader babel-core webpack
+<pre>	npm install --save babel-loader babel-core webpack </pre>
 </div>
 </li>
 <li>7) Ouvrez votre navigateur et tapez "localhost:8000" dans la barre d'addresse. Vous pouvez visionner le projet.
